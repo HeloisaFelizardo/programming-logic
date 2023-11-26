@@ -8,7 +8,7 @@ Algoritmo "maior_posicao"
 // Autor(a)    : Heloisa
 // Data atual  : 23/11/2023
 Var
-N, i, posicao: inteiro
+N, i, posMaior: inteiro
 maior: real
 numeros: vetor[0..9] de real
 
@@ -21,17 +21,18 @@ para i de 0 ate N -1 faca
        leia(numeros[i])
 fimpara
 
-maior <- 0
-para i de 0 ate N -1 faca
-      se (numeros[i] <> maior) e (numeros[i] > maior) entao
+maior <- numeros[0]
+posMaior <- 0
+para i de 1 ate N -1 faca
+      se numeros[i] > maior entao
            maior <- numeros[i]
-           posicao <- i
+           posMaior <- i
       fimse
 fimpara
 
 escreval
 escreval("MAIOR VALOR = ", maior:3:1)
-escreval("POSICAO DO MAIOR VALOR = ", posicao)
+escreval("POSICAO DO MAIOR VALOR = ", posMaior)
 
 
 

@@ -7,7 +7,7 @@ Algoritmo "numeros_pares"
 // Autor(a)    : Heloisa
 // Data atual  : 23/11/2023
 Var
-N, i, cont: inteiro
+N, i, contPares: inteiro
 numeros: vetor[0..9] de inteiro
 
 Inicio
@@ -22,16 +22,16 @@ fimpara
 escreval
 
 escreval("Numeros pares: ")
-cont <- 0
+contPares <- 0
 para i de 0 ate N -1 faca
       se numeros[i] mod 2 = 0 entao
            escreva(numeros[i], " ")
-           cont <- cont + 1
+           contPares <- contPares + 1
       fimse
 fimpara
 
 escreval
 
-escreva("Quantidade de pares = ", cont)
+escreva("Quantidade de pares = ", contPares)
 
 Fimalgoritmo
