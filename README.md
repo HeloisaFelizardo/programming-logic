@@ -5,3 +5,6 @@
 - Estruturas Repetitivas
 - Funções
 - Vetores
+- Matrizes
+
+- Linguagem C
