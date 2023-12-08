@@ -2,33 +2,33 @@
 
 int main()
 {
-    int n1, n2, n3, menor;
+    int a, b, c, menor;
 
     menor = 0;
 
     printf("Primeiro valor: ");
-    scanf("%d", &n1);
+    scanf("%d", &a);
 
     printf("Segundo valor: ");
-    scanf("%d", &n2);
+    scanf("%d", &b);
 
     printf("Terceiro valor: ");
-    scanf("%d", &n3);
+    scanf("%d", &c);
 
-    if(n1 < n2 && n1 < n3)
+    if(a < b && a < c)
     {
-        menor = n1;
+        menor = a;
     }
-    else if(n2 < n1 && n2 < n3)
+    else if(b < c)
     {
-        menor = n2;
+        menor = b;
     }
     else
     {
-        menor = n3;
+        menor = c;
     }
 
-    printf("MENOR = %d", menor);
+    printf("MENOR = %d\n", menor);
 
     return 0;
 }
