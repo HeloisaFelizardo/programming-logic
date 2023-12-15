@@ -7,7 +7,7 @@
 - Vetores
 - Matrizes
 
-- Linguagem C
+- C
 - C++
 - Java
 - C#
