@@ -9,3 +9,6 @@
 
 - Linguagem C
 - C++
+- Java
+- C#
+- Python
