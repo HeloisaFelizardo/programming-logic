@@ -1,0 +1,15 @@
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.exe
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.deps.json
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.runtimeconfig.json
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.dll
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\bin\Debug\net8.0\SomaVetor.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.AssemblyInfoInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.AssemblyInfo.cs
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.csproj.CoreCompileInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.sourcelink.json
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.dll
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\refint\SomaVetor.dll
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\SomaVetor.genruntimeconfig.cache
+D:\DEV\logica-de-programacao\exercicios\c#\SomaVetor\SomaVetor\obj\Debug\net8.0\ref\SomaVetor.dll

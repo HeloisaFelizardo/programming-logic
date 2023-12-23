@@ -1,0 +1,15 @@
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\bin\Debug\net8.0\Idades.exe
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\bin\Debug\net8.0\Idades.deps.json
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\bin\Debug\net8.0\Idades.runtimeconfig.json
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\bin\Debug\net8.0\Idades.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\bin\Debug\net8.0\Idades.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\Idades.AssemblyInfoInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\Idades.AssemblyInfo.cs
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\Idades.csproj.CoreCompileInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\Idades.sourcelink.json
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\Idades.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\refint\Idades.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\Idades.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\Idades.genruntimeconfig.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Idades\Idades\obj\Debug\net8.0\ref\Idades.dll

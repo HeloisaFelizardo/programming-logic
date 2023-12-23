@@ -1,0 +1,15 @@
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.exe
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.deps.json
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.runtimeconfig.json
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.dll
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\bin\Debug\net8.0\DiagonalNegativos.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.AssemblyInfoInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.AssemblyInfo.cs
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.csproj.CoreCompileInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.sourcelink.json
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.dll
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\refint\DiagonalNegativos.dll
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\DiagonalNegativos.genruntimeconfig.cache
+D:\DEV\logica-de-programacao\exercicios\c#\DiagonalNegativos\DiagonalNegativos\obj\Debug\net8.0\ref\DiagonalNegativos.dll

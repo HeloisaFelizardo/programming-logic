@@ -1,0 +1,15 @@
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.exe
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.deps.json
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.runtimeconfig.json
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.dll
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\bin\Debug\net8.0\MenorDeTres.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.AssemblyInfoInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.AssemblyInfo.cs
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.csproj.CoreCompileInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.sourcelink.json
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.dll
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\refint\MenorDeTres.dll
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\MenorDeTres.genruntimeconfig.cache
+D:\DEV\logica-de-programacao\exercicios\c#\MenorDeTres\MenorDeTres\obj\Debug\net8.0\ref\MenorDeTres.dll

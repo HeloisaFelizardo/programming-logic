@@ -1,0 +1,15 @@
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.exe
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.deps.json
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.runtimeconfig.json
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\bin\Debug\net8.0\Retangulo.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.AssemblyInfoInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.AssemblyInfo.cs
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.csproj.CoreCompileInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.sourcelink.json
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\refint\Retangulo.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\Retangulo.genruntimeconfig.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Retangulo\Retangulo\obj\Debug\net8.0\ref\Retangulo.dll

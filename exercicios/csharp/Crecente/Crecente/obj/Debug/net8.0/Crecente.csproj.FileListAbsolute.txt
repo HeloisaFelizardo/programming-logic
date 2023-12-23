@@ -1,0 +1,15 @@
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\bin\Debug\net8.0\Crecente.exe
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\bin\Debug\net8.0\Crecente.deps.json
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\bin\Debug\net8.0\Crecente.runtimeconfig.json
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\bin\Debug\net8.0\Crecente.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\bin\Debug\net8.0\Crecente.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\Crecente.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\Crecente.AssemblyInfoInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\Crecente.AssemblyInfo.cs
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\Crecente.csproj.CoreCompileInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\Crecente.sourcelink.json
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\Crecente.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\refint\Crecente.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\Crecente.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\Crecente.genruntimeconfig.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Crecente\Crecente\obj\Debug\net8.0\ref\Crecente.dll

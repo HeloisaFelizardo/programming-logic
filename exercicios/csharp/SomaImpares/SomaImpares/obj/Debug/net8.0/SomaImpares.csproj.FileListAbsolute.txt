@@ -1,0 +1,15 @@
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.exe
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.deps.json
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.runtimeconfig.json
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.dll
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\bin\Debug\net8.0\SomaImpares.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.AssemblyInfoInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.AssemblyInfo.cs
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.csproj.CoreCompileInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.sourcelink.json
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.dll
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\refint\SomaImpares.dll
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\SomaImpares.genruntimeconfig.cache
+D:\DEV\logica-de-programacao\exercicios\c#\SomaImpares\SomaImpares\obj\Debug\net8.0\ref\SomaImpares.dll

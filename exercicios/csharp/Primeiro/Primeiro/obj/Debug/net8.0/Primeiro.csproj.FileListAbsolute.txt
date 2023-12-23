@@ -1,0 +1,15 @@
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.exe
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.deps.json
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.runtimeconfig.json
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.AssemblyInfoInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.AssemblyInfo.cs
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.csproj.CoreCompileInputs.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.sourcelink.json
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\refint\Primeiro.dll
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.pdb
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.genruntimeconfig.cache
+D:\DEV\logica-de-programacao\exercicios\c#\Primeiro\Primeiro\obj\Debug\net8.0\ref\Primeiro.dll
