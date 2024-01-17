@@ -1,4 +1,4 @@
-# Lógica de Programação com VisualG
+# Lógica de Programação
 
 - Estrutura Sequencial
 - Estrutura Condicional
